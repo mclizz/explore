@@ -1,4 +1,4 @@
-# GitHub Explore
+https://github.com/preactjs/preact/blob/e22cc99ca398bb0a417ccc151a520c41215afe55/.editorconfig#L17-L22# GitHub Explore
 
 This repository houses all of the community-curated content for GitHub Topics and Collections.
 
@@ -21,3 +21,5 @@ script/cibuild
 ## Licenses
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+https://github.com/preactjs/preact/blob/e22cc99ca398bb0a417ccc151a520c41215afe55/.editorconfig#L17-L22
+
